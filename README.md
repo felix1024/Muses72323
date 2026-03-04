@@ -50,7 +50,7 @@ void setup() {
   delay(2000);
 
   // set different values for left and right
-  Serial.println("Set left volume to -100 and right volume to -1");
+  Serial.println("Set left volume to -447 and right volume to -1");
   muses.setVolume(-447, -1);
 }
 
